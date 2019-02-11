@@ -1,0 +1,5 @@
+Credentials cache: API:6F5CC2F6-C7D6-4890-ADF7-2079E2380787
+        Principal: scarpent@42.FR
+
+  Issued                Expires               Principal
+Feb  5 11:40:39 2019  Feb 12 11:40:34 2019  krbtgt/42.FR@42.FR
